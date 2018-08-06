@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="button_calc">Calculate TIp</string>
+    <string name="enter_bill">Enter Bill Amount</string>
+    <string name="TipHelp">Slide to Desired Tip Percentage</string>
+    <string name="BillText">Bill Total:</string>
+    <string name="TipHolder">Tip Amount:</string>
+    <string name="FinalHolder">Final Total:</string>
+    <string name="rounding">Nearest Dollar Rounding</string>
+</resources>
